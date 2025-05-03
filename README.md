@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahreen</h1>
 <h3 align="center">A passionate Blockchain Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahreenabbad&label=Profile%20views&color=0e75b6&style=flat" alt="mahreenabbad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahreenabbad" alt="mahreenabbad" /></a> </p>
-
-- 🔭 I’m currently working on **Cross Chain Bridge**
+- 🔭 I’m currently working on **Bridge between different chains**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
